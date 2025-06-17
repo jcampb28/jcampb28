@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there!
+
+I'm Jennifer, a junior software dev who has recently completed a JavaScript training bootcamp.
+
+I'm currently working to update and "complete" (are projects ever really complete? 🤔) the projects I worked on during the bootcamp and give my portfolio a boost.
+
+
 
 <!--
 **jcampb28/jcampb28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
