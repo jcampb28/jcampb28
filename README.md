@@ -2,7 +2,7 @@
 
 I'm Jennifer, a junior software dev who has recently completed a JavaScript training bootcamp.
 
-I'm currently working to update and "complete" (are projects ever really complete? 🤔) the projects I worked on during the bootcamp to give my portfolio a boost.
+I'm currently working to update and "complete" the projects (are projects ever really complete? 🤔) I worked on during the bootcamp to give my portfolio a boost.
 
 
 
