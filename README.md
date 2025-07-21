@@ -1,8 +1,8 @@
 ## Hi there!
 
-I'm Jennifer, a junior software dev who has recently completed a JavaScript training bootcamp.
+I'm Jennifer.
 
-I'm currently working to update and "complete" the projects (are projects ever really complete? 🤔) I worked on during the bootcamp to give my portfolio a boost.
+I'm currently working to update and "complete" the projects I worked on during a recently completed software development bootcamp.
 
 
 
